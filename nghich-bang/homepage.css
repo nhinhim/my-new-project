@@ -38,6 +38,8 @@ td.footer {
     text-align:center;
     color:white;
     background-color:#333333;
+    height: 15%;
+    line-height: 200%;
 }
 
 td.side {
